@@ -1,23 +1,17 @@
 # Hey there, I'm Sreejin CP 👋
 
-🌐 **Frontend Developer** | 🚀 **Learning Django for Full-Stack**  
+🌐 **Frontend Developer** | 🚀
 💻 Building modern web experiences with React & Next.js  
 🎨 Styling with Tailwind CSS & CSS-in-JS  
 
 ### 🔧 **Tech Stack**
 - **Frontend**: React, Next.js, JavaScript, TypeScript  
 - **Styling**: Tailwind CSS, CSS Modules, SASS  
-- **Backend**: Django (Learning), Python  
 - **Tools**: Git, VS Code, Figma  
 
 ### 🛠 **Current Projects**
 1. 
 2. 
-
-### 🌱 **Learning Goals for 2025**
-- Mastering Django for full-stack development  
-- Exploring Next.js advanced features (Server Actions, Streaming)  
-- Improving backend architecture knowledge  
 
 ### 📫 **Connect With Me**
 - LinkedIn:  
